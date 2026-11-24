@@ -1,0 +1,6 @@
+{
+  "name": "skill-matching",
+  "version": "0.1.0",
+  "description": "Gleicht Mitarbeiterprofile mit Staffing-Tickets ab",
+  "author": { "name": "Danny Yamin Haruna" }
+}

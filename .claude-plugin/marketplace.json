@@ -1,0 +1,11 @@
+{
+  "name": "stellen-matching-marketplace",
+  "owner": { "name": "Danny Yamin Haruna" },
+  "plugins": [
+    {
+      "name": "skill-matching",
+      "source": "./plugins/skill-matching",
+      "description": "Gleicht Mitarbeiterprofile mit Staffing-Tickets ab"
+    }
+  ]
+}
